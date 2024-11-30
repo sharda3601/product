@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar1{
+  text-align: end;
+}
+.navbar1 li{
+    display: inline-block;
+    padding: 10px;
+}
+.navbar1 .dd{
+  color: black;
+  text-decoration: none;
+}
+.navbar1 .dd:hover{
+  color : green;
+}
+.navbar1 .active{
+  color: #61dafb;
+}
